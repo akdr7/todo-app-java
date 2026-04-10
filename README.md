@@ -15,7 +15,7 @@ Eine einfache Desktop-Anwendung zur Verwaltung von Aufgaben.
 ## Start
 Programm mit TodoApp.java st
 
-## ✨ Neue Features
+## Neue Features
 - Speicherung von Aufgaben
 - Laden beim Start
 - Erledigt-Markierung
